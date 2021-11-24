@@ -1,5 +1,8 @@
 function getShippingCost(country) {
-  let message;
+    let message;
+    
+    message = 100
+    console.log(message)
   // Change code below this line
   
   switch(country) {
